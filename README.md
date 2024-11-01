@@ -34,3 +34,73 @@
 └── README.md                
 
 ```
+
+## Getting started
+
+Ensure you have the following installed:
+
+- Python 3.8 or higher
+- Pipenv 
+- SQlite
+
+## Installation and set up
+
+Fork and clone this repository into your preferred terminal directory:
+
+```bash
+
+git clone https://github.com/Steviemurigi/Phase-3-Project
+
+```
+
+Navigate into the project directory.
+
+```bash
+
+cd Phase-3-Project
+
+```
+
+Run code . from the directory to open the project in your code editor.
+
+Activate virtual environment
+
+```
+pipenv shell
+
+```
+## Usage
+
+To view the movies database:
+
+- Right click on movies.db from the editor explorer.
+- Select open database
+- This will enable one to explorer the movies database from the SQlite explorer.
+
+To run the CLI application from the terminal, run:
+
+```
+python lib/cli.py
+
+```
+
+This will open up the CLI application, where one can explore and perform various functions.
+
+## Technologies Used
+
+- **Programming Language** : Python 3.x
+
+- **SQLite** : For database management
+
+- **Development Environment** : Any text editor e.g VS Code
+
+## Contributing
+
+Contributions are welcome to this project! If you'd like to help, please fork the repository and create a new branch for your feature or bug fix. Once you've made your changes, submit a pull request with a clear description of your contributions.
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for more information.
+
+
+

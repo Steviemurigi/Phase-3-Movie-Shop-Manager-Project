@@ -54,7 +54,7 @@ def main():
             print("Invalid choice")
 
 def menu():
-    print("Welcome to my CLI! Please select an option:")
+    print("Welcome to Movie Shop Manager! Please select an option:")
     print("0. Exit the program")
     print("1. List all movie shops")
     print("2. Find movie shop by name")
