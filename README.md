@@ -66,6 +66,7 @@ Run code . from the directory to open the project in your code editor.
 Activate virtual environment
 
 ```
+
 pipenv shell
 
 ```
