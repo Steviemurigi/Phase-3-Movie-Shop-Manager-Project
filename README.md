@@ -18,8 +18,6 @@ Such functionalities include:
 - Create, update, and delete movies
 - View all movies available at a specific movie shop
 
-The **CLI applicat
-
 ## Project Structure
 
 ```
