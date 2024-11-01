@@ -6,6 +6,10 @@
 
 ## Features
 
+**User-Friendly Command-Line Interface**: The MovieShop Manager offers an intuitive and easy-to-navigate command-line interface, allowing users to quickly access various functionalities without the need for complex commands. 
+
+Such functionalities include:
+
 - List all movie shops
 - Find movie shops by name or ID
 - Create, update, and delete movie shops
@@ -13,6 +17,8 @@
 - Find movies by title, genre, or ID
 - Create, update, and delete movies
 - View all movies available at a specific movie shop
+
+The **CLI applicat
 
 ## Project Structure
 
@@ -65,7 +71,7 @@ Run code . from the directory to open the project in your code editor.
 
 Activate virtual environment
 
-```
+```bash
 
 pipenv shell
 
@@ -76,16 +82,17 @@ To view the movies database:
 
 - Right click on movies.db from the editor explorer.
 - Select open database
-- This will enable one to explorer the movies database from the SQlite explorer.
+- This will enable one to explore the movies database from the SQlite explorer.
 
 To run the CLI application from the terminal, run:
 
-```
+```bash
+
 python lib/cli.py
 
 ```
 
-This will open up the CLI application, where one can explore and perform various functions.
+This will open up the CLI application, where one can explore and perform various functions by following the CLI instructions.
 
 ## Technologies Used
 
