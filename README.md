@@ -104,9 +104,6 @@ This will open up the CLI application, where one can explore and perform various
 
 Contributions are welcome to this project! If you'd like to help, please fork the repository and create a new branch for your feature or bug fix. Once you've made your changes, submit a pull request with a clear description of your contributions.
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for more information.
 
 
 
